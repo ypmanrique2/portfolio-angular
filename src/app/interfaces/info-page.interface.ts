@@ -1,5 +1,5 @@
 
-export interface InforPage {
+export interface InfoPage {
   title?: string;
   email?: string;
   short_name?: string;
